@@ -56,8 +56,6 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 
 <br />
-
-
 <!-- ### 📺 Latest YouTube Videos
  -->
 <!-- YOUTUBE:START -->
@@ -71,8 +69,6 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr)
  -->
----
-
 <!-- ### 📕 Latest Blog Posts
  -->
 <!-- BLOG-POST-LIST:START -->
@@ -97,7 +93,8 @@
 3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
 5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
- --><!--END_SECTION:activity-->
+ -->
+ <!--END_SECTION:activity-->
 
 <!-- </details> -->
 
