@@ -66,7 +66,6 @@
 - [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
  -->
  <!-- YOUTUBE:END -->
-
 <!-- ➡️ [more videos...](https://youtube.com/codestackr)
  -->
 <!-- ### 📕 Latest Blog Posts
@@ -79,11 +78,8 @@
 - [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
  -->
  <!-- BLOG-POST-LIST:END -->
-
 <!-- ➡️ [more blog posts...](https://codestackr.com)
  -->
----
-
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
  -->  
@@ -95,9 +91,7 @@
 5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
  -->
  <!--END_SECTION:activity-->
-
 <!-- </details> -->
-
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Hamilton Lumati's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamiltonlumati&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
