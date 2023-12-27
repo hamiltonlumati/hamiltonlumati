@@ -10,22 +10,13 @@
  -->
 ## I'm a fullstack developer and writer!!
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!-->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Docker
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more about Machine Learning
 - ⚡ Fun fact: I love to write
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
- -->
+
 ### Connect with me:
 
-<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
- -->
-<!--  [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
 [![website](./img/twitter-light.svg)](https://twitter.com/onaha_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/onaha_#gh-dark-mode-only)
 &nbsp;&nbsp;
