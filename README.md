@@ -52,7 +52,6 @@
 <img align="left" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="margin:10px;" />
 <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin:10px;" />
 <img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="margin:10px;" />
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="margin:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin:10px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin:10px;" />
 <img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin:10px;" />
@@ -62,7 +61,6 @@
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="margin:10px;" />
 <img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="margin:10px;" />
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="margin:10px;" />
-<img align="left" alt="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="margin:10px;" />
 <img align="left" alt="Matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="margin:10px;" />
 
 
