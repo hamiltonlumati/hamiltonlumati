@@ -69,7 +69,6 @@
 
 <br />
 <br />
-### My Stats
 <!-- ###  Latest YouTube Videos
  -->
 <!-- YOUTUBE:START -->
