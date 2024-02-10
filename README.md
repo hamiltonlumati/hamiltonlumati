@@ -20,8 +20,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/onaha_#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/onaha_#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hamilton-lumati-167315154#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hamilton-lumati-167315154#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/hamiltonlumati#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/hamiltonlumati#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/onaha__#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/onaha__#gh-dark-mode-only)
